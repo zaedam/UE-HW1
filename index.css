@@ -1,0 +1,21 @@
+body {
+    min-width: 1350px;
+}
+#high-contrast-div {
+    background-image: url('images/busy.jpg');
+    min-height: 100vh;
+}
+.darkgray {
+    color: #505050;
+}
+.pointer {
+    cursor:pointer;
+}
+.fake_link {
+    cursor:pointer;
+    color:blue;
+    text-decoration:underline;
+}
+#registration_code_img {
+    height: 15px;
+}
