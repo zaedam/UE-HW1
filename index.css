@@ -5,9 +5,6 @@ body {
     background-image: url('images/busy.jpg');
     min-height: 100vh;
 }
-.darkgray {
-    color: #505050;
-}
 .pointer {
     cursor:pointer;
 }
